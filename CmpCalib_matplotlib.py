@@ -1,12 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-
-# sudo apt-get install python3-tk
-# sudo pip3 install numpy / scipy / matplotlib
-#
-
 import os
 import sys
 import argparse
