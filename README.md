@@ -9,7 +9,7 @@ Tool to display output of the CmpCalib command from MicMac (IGN)
 Tested only with Python2.7
 
 ```
-sudo pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
@@ -20,7 +20,7 @@ sudo pip install -r requirements.txt
 3. Then lauch ./CmpCalib_matplotlib.py with the txt file(s) as arg(s) 
 ```
 $ mm3d CmpCalib Ori-XXXX/AutoCal_* Ori-YYYY/AutoCal_* Out=file_to_plot.xml
-$ sudo chmod +x CmpCalib_matplotlib.py
+$ chmod +x CmpCalib_matplotlib.py
 $ ./CmpCalib_matplotlib.py file(s)_to_plot.txt 
 ```
 
